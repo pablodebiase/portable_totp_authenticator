@@ -1,0 +1,5 @@
+protobuf
+ipython
+pyotp
+opencv-python
+pyzbar
