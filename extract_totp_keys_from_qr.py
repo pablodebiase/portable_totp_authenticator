@@ -1,4 +1,4 @@
-
+# Author: Pablo M. De Biase
 # Extract TOTP Key from Google Authenticator Export QR Code data
 import base64
 from urllib.parse import unquote

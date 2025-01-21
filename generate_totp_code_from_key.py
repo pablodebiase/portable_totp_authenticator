@@ -1,3 +1,4 @@
+# Author: Pablo M. De Biase
 import sys
 
 import pyotp
